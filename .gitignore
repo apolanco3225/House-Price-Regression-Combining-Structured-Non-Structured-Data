@@ -1,3 +1,5 @@
+# ignore junk R Studio files
+.Rhistory
 # ignore junk macboook files
 .DS_Store
 # Byte-compiled / optimized / DLL files
